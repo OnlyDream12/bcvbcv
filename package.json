@@ -1,0 +1,16 @@
+{
+  "name": "mon-bot-discord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.20.0",
+    "generate-password": "^1.7.1"
+  }
+}
